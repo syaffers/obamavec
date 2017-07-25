@@ -52,8 +52,6 @@ fs.readFile("obama_speeches_id.json", function(err, file) {
           .replace(/�/g, "'")
           .replace(/\s\s+/g, " ");
 
-        // console.log(text);
-
         /* Check for this authenticity badge for easy clipping of text */
         if (text.indexOf(startClip) >= 0 && !passLvl1) {
           console.log("Got auth text");
