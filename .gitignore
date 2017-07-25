@@ -60,5 +60,9 @@ typings/
 # vscode stuff
 .vscode/
 
-# no raw files pls
-raw*/
+# no raw or processed files pls
+raw/*
+!raw/INFO
+
+processed/*
+!processed/INFO
