@@ -7,8 +7,10 @@ const startClip2 = "click for pdf";
 const endClip = "Book/CDs by Michael E. Eidenmuller, Published by McGraw-Hill (2008)"
 const endClip2 = "Copyright Status: Text = Public Domain. Audio = Restricted";
 
-fs.readFile("speeches_id.json", function(err, file) {
+fs.readFile("obama_speeches_id.json", function(err, file) {
+  /* something's wrong with the file */
   if (err) throw err;
+
   data = JSON.parse(file.toString());
 
   /* Slice here for testing */
@@ -53,12 +55,12 @@ fs.readFile("speeches_id.json", function(err, file) {
         // console.log(text);
 
         /* Check for this authenticity badge for easy clipping of text */
-        if (text.indexOf(startClip) >= 0 && passLvl1 == false) {
+        if (text.indexOf(startClip) >= 0 && !passLvl1) {
           console.log("Got auth text");
           text = text.split(startClip)[1];
           passLvl1 = true;
         }
-        if (text.indexOf(startClip2) >= 0 && passLvl1 == false) {
+        if (text.indexOf(startClip2) >= 0 && !passLvl1) {
           console.log("Got pdf text");
           text = text.split(startClip2)[1];
           passLvl1 = true;
@@ -66,13 +68,13 @@ fs.readFile("speeches_id.json", function(err, file) {
 
         if (passLvl1) {
 
-          /* Book/CDs text help to end the clipping */
-          if (text.indexOf(endClip) >= 0 && passLvl2 == false) {
+          /* "Book/CDs" text help to end the clipping */
+          if (text.indexOf(endClip) >= 0 && !passLvl2) {
             console.log('Got Book/CDs text');
             text = text.split(endClip)[0];
             passLvl2 = true;
           }
-          if (text.indexOf(endClip2) >= 0 && passLvl2 == false) {
+          if (text.indexOf(endClip2) >= 0 && !passLvl2) {
             console.log('Got copyright status text');
             text = text.split(endClip2)[0];
             passLvl2 = true;

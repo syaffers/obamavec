@@ -1,0 +1,23 @@
+{
+  "name": "speeches",
+  "version": "1.0.0",
+  "description": "Obama speech text mining and analysis",
+  "main": "scrape_speech.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "mkdir raw && node scrape_speech"
+  },
+  "keywords": [
+    "obama",
+    "speech",
+    "text",
+    "mining"
+  ],
+  "author": "syaffers",
+  "license": "MIT"
+}
