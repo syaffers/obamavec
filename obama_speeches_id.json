@@ -1,0 +1,2618 @@
+[
+    {
+        "speech": "Democratic National Convention Keynote Speech",
+        "link": "http://www.americanrhetoric.com/speeches/convention2004/barackobama2004dnc.htm",
+        "date": "27 July 2004",
+        "id": 0
+    },
+    {
+        "speech": "Senate Speech on Ohio Electoral Vote Counting",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatespeechonohioelectoralvotes.htm",
+        "date": "06 January 2005",
+        "id": 1
+    },
+    {
+        "speech": "Knox College Commencement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamaknoxcollege.htm",
+        "date": "04 June 2005",
+        "id": 2
+    },
+    {
+        "speech": "Senate Speech on the PATRIOT Act",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatefloorspeechpatriotact.htm",
+        "date": "15 December 2005",
+        "id": 3
+    },
+    {
+        "speech": "Senate Speech on the Passing of Coretta Scott King",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatespeechoncorettascottkingpassing.htm",
+        "date": "31 January 2006",
+        "id": 4
+    },
+    {
+        "speech": "Senate Speech on Voting Rights Act Renewal",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatespeechonvotingrightsactrenewal.htm",
+        "date": "20 July 2006",
+        "id": 5
+    },
+    {
+        "speech": "Presidential Exploratory Committee Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamaexploratory.htm",
+        "date": "16 January 2007",
+        "id": 6
+    },
+    {
+        "speech": "Presidential Candidacy Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamacandidacyforpresident.htm",
+        "date": "10 February 2007",
+        "id": 7
+    },
+    {
+        "speech": "Brown Chapel Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabrownchapel.htm",
+        "date": "04 March 2007",
+        "id": 8
+    },
+    {
+        "speech": "Senate Speech on Iraq Federalism Amendment",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatespeechiraqfederalismamendment.htm",
+        "date": "13 March 2007",
+        "id": 9
+    },
+    {
+        "speech": "Senate Speech on Iraq War After 4 Years",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatefloorspeechoniraqwar4years.htm",
+        "date": "21 March 2007",
+        "id": 10
+    },
+    {
+        "speech": "Woodrow Wilson Center Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamawilsoncenter.htm",
+        "date": "01 August 2007",
+        "id": 11
+    },
+    {
+        "speech": "Speech at the Jefferson-Jackson Dinner",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajeffersonjacksondinner.htm",
+        "date": "10 November 2007",
+        "id": 12
+    },
+    {
+        "speech": "Iowa Caucus Victory Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaiowavictoryspeech.htm",
+        "date": "03 January 2008",
+        "id": 13
+    },
+    {
+        "speech": "New Hampshire Primary Concession Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanewhampshireconcessionspeech.htm",
+        "date": "08 January 2008",
+        "id": 14
+    },
+    {
+        "speech": "Ebenezer Baptist Church Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaebenezerbaptist.htm",
+        "date": "20 January 2008",
+        "id": 15
+    },
+    {
+        "speech": "South Carolina Primary Victory Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasouthcarolinavictory.htm",
+        "date": "26 January 2008",
+        "id": 16
+    },
+    {
+        "speech": "A More Perfect Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamaperfectunion.htm",
+        "date": "18 March 2008",
+        "id": 17
+    },
+    {
+        "speech": "Democratic Nomination Victory Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamademocraticnominationvictoryspeech.htm",
+        "date": "03 June 2008",
+        "id": 18
+    },
+    {
+        "speech": "Policy Speech on Iraq at the Woodrow Wilson Center",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqwarreaganbuilding.htm",
+        "date": "15 July 2008",
+        "id": 19
+    },
+    {
+        "speech": "Speech to the People of Berlin",
+        "link": "http://www.americanrhetoric.com/speeches/barackobamaberlinspeech.htm",
+        "date": "24 July 2008",
+        "id": 20
+    },
+    {
+        "speech": "DNC Presidential Nomination Acceptance Speech",
+        "link": "http://www.americanrhetoric.com/speeches/convention2008/barackobama2008dnc.htm",
+        "date": "28 August 2008",
+        "id": 21
+    },
+    {
+        "speech": "Senate Speech on Wall Street Bailout Bill",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenatespeechonbailoutbill.htm",
+        "date": "01 October 2008",
+        "id": 22
+    },
+    {
+        "speech": "President-Elect Victory Speech",
+        "link": "http://www.americanrhetoric.com/speeches/convention2008/barackobamavictoryspeech.htm",
+        "date": "04 November 2008",
+        "id": 23
+    },
+    {
+        "speech": "First President-Elect Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafirstpressconference.htm",
+        "date": "07 November 2008",
+        "id": 24
+    },
+    {
+        "speech": "Global Climate Summit Prerecorded Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaglobalclimatesummit.htm",
+        "date": "18 November 2008",
+        "id": 25
+    },
+    {
+        "speech": "Economic Team Announcement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeconomicteamannouncement.htm",
+        "date": "24 November 2008",
+        "id": 26
+    },
+    {
+        "speech": "Management and Budget Office Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamanagementandbudgetoffice.htm",
+        "date": "25 November 2008",
+        "id": 27
+    },
+    {
+        "speech": "Security Team Announcement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasecurityteamannouncement.htm",
+        "date": "01 December 2008",
+        "id": 28
+    },
+    {
+        "speech": "Commerce Secretary Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasecretarycommerce.htm",
+        "date": "03 December 2008",
+        "id": 29
+    },
+    {
+        "speech": "George Mason University Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamageorgemason.htm",
+        "date": "08 January 2009",
+        "id": 30
+    },
+    {
+        "speech": "Lincoln Memorial Pre-Inauguration Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapreinaugurallincolnmemorial.htm",
+        "date": "18 January 2009",
+        "id": 31
+    },
+    {
+        "speech": "FIRST PRESIDENTIAL INAUGURAL ADDRESS",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamainauguraladdress.htm",
+        "date": "20 January 2009",
+        "id": 32
+    },
+    {
+        "speech": "First Presidential Weekly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/weeklyaddresses/barackobamaweekly1.htm",
+        "date": "24 January 2009",
+        "id": 33
+    },
+    {
+        "speech": "Al-Arabiya Television Interview",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaal-arabiya.htm",
+        "date": "26 January 2009",
+        "id": 34
+    },
+    {
+        "speech": "Executive Compensation Salary Cap Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaexecutivecompensation.htm",
+        "date": "04 February 2009",
+        "id": 35
+    },
+    {
+        "speech": "First Prime Time Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafirstprimetimepressconference.htm",
+        "date": "09 February 2009",
+        "id": 36
+    },
+    {
+        "speech": "Abraham Lincoln D.C. Bicentennial Celebration Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalincolnbicentennialspeech.htm",
+        "date": "12 February 2009",
+        "id": 37
+    },
+    {
+        "speech": "State of the Nation Address to Congress Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajointsession2009.htm",
+        "date": "24 February 2009",
+        "id": 38
+    },
+    {
+        "speech": "Ending the Iraq War at Camp Lejeune Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacamplejeune2009.htm",
+        "date": "27 February 2009",
+        "id": 39
+    },
+    {
+        "speech": "Speech to Hispanic Chamber of Commerce",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahispanicchamberofcommerce.htm",
+        "date": "10 March 2009",
+        "id": 40
+    },
+    {
+        "speech": "G-20 London Economic Summit Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamag20summitpressconference.htm",
+        "date": "02 April 2009",
+        "id": 41
+    },
+    {
+        "speech": "Speech at Strasbourg Town Hall",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamastrasbourgspeech.htm",
+        "date": "03 April 2009",
+        "id": 42
+    },
+    {
+        "speech": "Speech at Hradcany Square in Prague",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapraguespeech.htm",
+        "date": "05 April 2009",
+        "id": 43
+    },
+    {
+        "speech": "Speech to the Turkish Parliament",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaturkishparliament.htm",
+        "date": "06 April 2009",
+        "id": 44
+    },
+    {
+        "speech": "Speech to U.S. Troops Serving in Baghdad Iraq",
+        "link": "http://www.americanrhetoric.com/speeches/wariniraq/barackobamairaqtroops040709.htm",
+        "date": "07 April 2009",
+        "id": 45
+    },
+    {
+        "speech": "A New Foundation Speech at Georgetown",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeconomicvisiongeorgetown.htm",
+        "date": "14 April 2009",
+        "id": 46
+    },
+    {
+        "speech": "First Address at the Central Intelligence Agency",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaCIAfirstvisit.htm",
+        "date": "20 April 2009",
+        "id": 47
+    },
+    {
+        "speech": "Holocaust Days of Remembrance Ceremony Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaholocaustdaysofremembrance.htm",
+        "date": "23 April 2009",
+        "id": 48
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2009.htm",
+        "date": "09 May 2009",
+        "id": 49
+    },
+    {
+        "speech": "Notre Dame University Commencement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanotredamecommencement.htm",
+        "date": "18 May 2009",
+        "id": 50
+    },
+    {
+        "speech": "National Security Speech at the National Archives",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationalarchives.htm",
+        "date": "21 May 2009",
+        "id": 51
+    },
+    {
+        "speech": "Speech on Securing U.S. Cybersecurity Infrastructure",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacybersecurity.htm",
+        "date": "29 May 2009",
+        "id": 52
+    },
+    {
+        "speech": "New Beginning\"Speech at Cairo University",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacairouniversity.htm",
+        "date": "04 June 2009",
+        "id": 53
+    },
+    {
+        "speech": "Speech at Buchenwald Concentration Camp",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabuchenwaldconcentrationcamp.htm",
+        "date": "04 June 2009",
+        "id": 54
+    },
+    {
+        "speech": "Speech Marking the 65th Anniversary of D-Day",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadday65anniversary.htm",
+        "date": "05 June 2009",
+        "id": 55
+    },
+    {
+        "speech": "American Medical Association Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaamericanmedicalassociation.htm",
+        "date": "15 June 2009",
+        "id": 56
+    },
+    {
+        "speech": "On the Dignity & Courage of the Iranian Peoples",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamauprisingiran.htm",
+        "date": "23 June 2009",
+        "id": 57
+    },
+    {
+        "speech": "Third Prime Time Press Conference (Iran & Heath Care)",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapressconferenceiranandhealthcare.htm",
+        "date": "23 June 2009",
+        "id": 58
+    },
+    {
+        "speech": "Moscow New Economic School Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaneweconomicschool.htm",
+        "date": "07 July 2009",
+        "id": 59
+    },
+    {
+        "speech": "Ghanaian Parliament Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaghanaparliament.htm",
+        "date": "11 July 2009",
+        "id": 60
+    },
+    {
+        "speech": "Nomination of Regina Benjamin for Surgeon General",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasurgeongeneralnomination.htm",
+        "date": "13 July 2009",
+        "id": 61
+    },
+    {
+        "speech": "American Graduation Initiative Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaamericangraduationinitiative.htm",
+        "date": "14 July 2009",
+        "id": 62
+    },
+    {
+        "speech": "Eulogy for Ted Kennedy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeulogytedkennedy.htm",
+        "date": "29 August 2009",
+        "id": 63
+    },
+    {
+        "speech": "Back-to-School Speech to America's Schoolchildren",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabacktoschoolspeech.htm",
+        "date": "08 September 2009",
+        "id": 64
+    },
+    {
+        "speech": "Eulogy for Walter Cronkite",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawaltercronkiteeulogy.htm",
+        "date": "09 September 2009",
+        "id": 65
+    },
+    {
+        "speech": "Joint Session of Congress Heath Care Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajointsessionhealthcare.htm",
+        "date": "09 September 2009",
+        "id": 66
+    },
+    {
+        "speech": "9/11 Pentagon Memorial Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama911pentagonmemorialspeech.htm",
+        "date": "11 September 2009",
+        "id": 67
+    },
+    {
+        "speech": "United Nations 64th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations64.htm",
+        "date": "23 September 2009",
+        "id": 68
+    },
+    {
+        "speech": "Fort Hood Memorial Service Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaforthoodmemorial.htm",
+        "date": "10 November 2009",
+        "id": 69
+    },
+    {
+        "speech": "Afghanistan Troop Surge at the U.S. Military Academy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawestpointafghanistan.htm",
+        "date": "01 December 2009",
+        "id": 70
+    },
+    {
+        "speech": "Kennedy Center Honorees Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakennedycenterhonorees2009.htm",
+        "date": "06 December 2009",
+        "id": 71
+    },
+    {
+        "speech": "Brookings Institution Speech on Job Creation",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabrookingsinstitute.htm",
+        "date": "08 December 2009",
+        "id": 72
+    },
+    {
+        "speech": "Nobel Prize for Peace Speech and Lecture",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanobelprizespeech.htm",
+        "date": "10 December 2009",
+        "id": 73
+    },
+    {
+        "speech": "UN Copenhagen Climate Change Conference Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednationsclimatechange.htm",
+        "date": "18 December 2009",
+        "id": 74
+    },
+    {
+        "speech": "On NW Flight 253 Terrorist Threat and Iran Violence",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaflight253terrorismiranviolence.htm",
+        "date": "28 December 2009",
+        "id": 75
+    },
+    {
+        "speech": "National Security Review Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasecurityreviewpressconference.htm",
+        "date": "05 January 2010",
+        "id": 76
+    },
+    {
+        "speech": "Security Review Results and Aviation Security",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaviationsecurity.htm",
+        "date": "07 January 2010",
+        "id": 77
+    },
+    {
+        "speech": "Speech on Financial Crisis Responsibility Fee",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinancialcrisisresponsiblityfee.htm",
+        "date": "14 January 2010",
+        "id": 78
+    },
+    {
+        "speech": "Martin Luther King Remembrance Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamlkremembrancespeech.htm",
+        "date": "17 January 2010",
+        "id": 79
+    },
+    {
+        "speech": "Lorain County Town Hall Speech and Q&A",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaloraincountytownhallspeech.htm",
+        "date": "22 January 2010",
+        "id": 80
+    },
+    {
+        "speech": "Auschwitz and Birkenau Remembrance Message",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaauschwitzbirkenauliberation65.htm",
+        "date": "27 January 2010",
+        "id": 81
+    },
+    {
+        "speech": "First Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2010.htm",
+        "date": "27 January 2010",
+        "id": 82
+    },
+    {
+        "speech": "GOP Issues Conference Forum Dialogue",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagophouseissuesconference.htm",
+        "date": "29 January 2010",
+        "id": 83
+    },
+    {
+        "speech": "Press Conference on 2010 Budget Sent to Congress",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2010budgettocongress.htm",
+        "date": "01 February 2010",
+        "id": 84
+    },
+    {
+        "speech": "Speech at the 58th National Prayer Breakfast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2010prayerbreakfastspeech.htm",
+        "date": "04 February 2010",
+        "id": 85
+    },
+    {
+        "speech": "Unannounced Briefing on Health Care and Jobs",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajobshealthcarebriefing.htm",
+        "date": "09 February 2010",
+        "id": 86
+    },
+    {
+        "speech": "Vote Push on Heath Care Reform Legislation",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaheathcarevotenow.htm",
+        "date": "03 March 2010",
+        "id": 87
+    },
+    {
+        "speech": "Blueprint for Reforming No Child Left Behind Act",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanochildleftbehind.htm",
+        "date": "13 March 2010",
+        "id": 88
+    },
+    {
+        "speech": "Health Care Speech at George Mason University",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahealthcaregeorgemason.htm",
+        "date": "19 March 2010",
+        "id": 89
+    },
+    {
+        "speech": "Speech to House Democratic Caucus on Health Care",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahousedemocraticcongresshealthcare.htm",
+        "date": "20 March 2010",
+        "id": 90
+    },
+    {
+        "speech": "Speech on House Passage of Health Care Reform Bill",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapassinghealthcarebill.htm",
+        "date": "21 March 2010",
+        "id": 91
+    },
+    {
+        "speech": "Speech on Signing Health Care Reform Bill into Law",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahealthreformbillsigning.htm",
+        "date": "23 March 2010",
+        "id": 92
+    },
+    {
+        "speech": "Speech to U.S. Military in Afghanistan",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatroopsafghanistan.htm",
+        "date": "28 March 2010",
+        "id": 93
+    },
+    {
+        "speech": "Speech on Energy Security at Andrews Air Force Base",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaenergysecurityandrewsafb.htm",
+        "date": "31 March 2010",
+        "id": 94
+    },
+    {
+        "speech": "START Treaty Joint Presser with Medvedev",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamastarttreaty.htm",
+        "date": "08 April 2010",
+        "id": 95
+    },
+    {
+        "speech": "On Justice Stevens and West Virginia Mining Tragedy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawvminejusticestevens.htm",
+        "date": "09 April 2010",
+        "id": 96
+    },
+    {
+        "speech": "NASA Space Exploration in the 21st Century Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanasaboldcourse.htm",
+        "date": "15 April 2010",
+        "id": 97
+    },
+    {
+        "speech": "Cooper Union Speech on Wall Street Financial Reform",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamareformingwallstreet.htm",
+        "date": "22 April 2010",
+        "id": 98
+    },
+    {
+        "speech": "Eulogy for Upper Big Branch Miners",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeulogycoalminers.htm",
+        "date": "25 April 2010",
+        "id": 99
+    },
+    {
+        "speech": "Eulogy for Dorothy Height",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadorothyheight.htm",
+        "date": "29 April 2010",
+        "id": 100
+    },
+    {
+        "speech": "Commencement Speech at Michigan University",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamauniversityofmichigancommencement.htm",
+        "date": "01 May 2010",
+        "id": 101
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2010.htm",
+        "date": "02 May 2010",
+        "id": 102
+    },
+    {
+        "speech": "Speech Nominating Elena Kagan for USSC Justice",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaelenakagannomination.htm",
+        "date": "10 May 2010",
+        "id": 103
+    },
+    {
+        "speech": "U.S. Military Academy Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawestpointcommencement.htm",
+        "date": "22 May 2010",
+        "id": 104
+    },
+    {
+        "speech": "Press Conference on Gulf Oil Spill Disaster",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagulfoilspillpresser.htm",
+        "date": "27 May 2010",
+        "id": 105
+    },
+    {
+        "speech": "Grande Isle Briefing on Gulf Oil Spill Disaster",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagrandeisleoilspillbriefing.htm",
+        "date": "28 May 2010",
+        "id": 106
+    },
+    {
+        "speech": "Speech on the Economy at Carnegie Mellon",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacarnegiemellon.htm",
+        "date": "02 June 2010",
+        "id": 107
+    },
+    {
+        "speech": "Kalamazoo Central H.S. Commencement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakalamazoocommencement.htm",
+        "date": "07 June 2010",
+        "id": 108
+    },
+    {
+        "speech": "Speech on UN Security Council Sanctions Against Iran",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairansanctions.htm",
+        "date": "09 June 2010",
+        "id": 109
+    },
+    {
+        "speech": "Speech to Military Personnel in Pensacola",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapensacolamilitary.htm",
+        "date": "15 June 2010",
+        "id": 110
+    },
+    {
+        "speech": "Oval Office Speech on BP Oil Spill Disaster",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabpoilspillovaloffice.htm",
+        "date": "15 June 2010",
+        "id": 111
+    },
+    {
+        "speech": "Speech to the American Nurses Association",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanursesassociation.htm",
+        "date": "16 June 2010",
+        "id": 112
+    },
+    {
+        "speech": "Father's Day Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafathersday2010.htm",
+        "date": "21 June 2010",
+        "id": 113
+    },
+    {
+        "speech": "Speech on the Removal of Gen. McChrystal in Afghanistan",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamccrystalremovedafghanistan.htm",
+        "date": "23 June 2010",
+        "id": 114
+    },
+    {
+        "speech": "Comprehensive Immigration Reform Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacomprehensiveimmigrationreform.htm",
+        "date": "01 July 2010",
+        "id": 115
+    },
+    {
+        "speech": "Eulogy for Robert Byrd",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamarobertbyrdeulogy.htm",
+        "date": "02 July 2010",
+        "id": 116
+    },
+    {
+        "speech": "Dodd-Frank Consumer Protection Act Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawallstreetreformactsigning.htm",
+        "date": "21 July 2010",
+        "id": 117
+    },
+    {
+        "speech": "Disabled Veterans Conference Speech on Ending Iraq OPS",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqendingcombat.htm",
+        "date": "02 August 2010",
+        "id": 118
+    },
+    {
+        "speech": "Iftar Dinner Speech on Religious Tolerance",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaiftardinner.htm",
+        "date": "13 August 2010",
+        "id": 119
+    },
+    {
+        "speech": "Speech to the Nation on Ending Operation Iraqi Freedom",
+        "link": "http://www.americanrhetoric.com/speeches/wariniraq/barackobamairaqendofcombatops.htm",
+        "date": "31 August 2010",
+        "id": 120
+    },
+    {
+        "speech": "9/11 Pentagon Memorial Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama911pentagonmemorial.htm",
+        "date": "11 September 2010",
+        "id": 121
+    },
+    {
+        "speech": "United Nations 65th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations65.htm",
+        "date": "23 September 2010",
+        "id": 122
+    },
+    {
+        "speech": "Midterm Election Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamidtermpresser.htm",
+        "date": "03 November 2010",
+        "id": 123
+    },
+    {
+        "speech": "Indian Parliament Joint Session Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaindianparliament.htm",
+        "date": "08 November 2010",
+        "id": 124
+    },
+    {
+        "speech": "Indonesia University Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaindonesiauniversity.htm",
+        "date": "10 November 2010",
+        "id": 125
+    },
+    {
+        "speech": "Medal of Honor Award to Salvatore Giunta Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagiuntamedalofhonor.htm",
+        "date": "16 November 2010",
+        "id": 126
+    },
+    {
+        "speech": "Speech to Troops at Bagram Air Field",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabagramairfield.htm",
+        "date": "03 December 2010",
+        "id": 127
+    },
+    {
+        "speech": "Presser on Tax Cuts with William Jefferson Clinton",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawjclintontaxcuts.htm",
+        "date": "10 December 2010",
+        "id": 128
+    },
+    {
+        "speech": "Tucson Memorial Service Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatucsonmemorial.htm",
+        "date": "12 January 2011",
+        "id": 129
+    },
+    {
+        "speech": "Second Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2011.htm",
+        "date": "25 January 2011",
+        "id": 130
+    },
+    {
+        "speech": "Speech at the 59th National Prayer Breakfast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2011prayerbreakfast.htm",
+        "date": "03 February 2011",
+        "id": 131
+    },
+    {
+        "speech": "Speech to the US Chamber of Commerce",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamachamberofcommerce.htm",
+        "date": "07 February 2011",
+        "id": 132
+    },
+    {
+        "speech": "National Wireless Initiative Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationalwirelessinitiative.htm",
+        "date": "10 February 2011",
+        "id": 133
+    },
+    {
+        "speech": "Address on the Historic Revolution in Egypt",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaegyptrevolution.htm",
+        "date": "11 February 2011",
+        "id": 134
+    },
+    {
+        "speech": "Address on the Violence in Libya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalibya.htm",
+        "date": "23 February 2011",
+        "id": 135
+    },
+    {
+        "speech": "Statement on Libya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalibyawarning.htm",
+        "date": "18 March 2011",
+        "id": 136
+    },
+    {
+        "speech": "Statement on Odyssey Dawn Limited Military Action in Libya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalibyaltdmilitaryaction.htm",
+        "date": "19 March 2011",
+        "id": 137
+    },
+    {
+        "speech": "Speech to the People of Rio de Janeiro",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamariodejaneiro.htm",
+        "date": "20 March 2011",
+        "id": 138
+    },
+    {
+        "speech": "Speech on Latin American to the People of Chile",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamachilespeech.htm",
+        "date": "21 March 2011",
+        "id": 139
+    },
+    {
+        "speech": "Speech to the American People on Libya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalibyanationspeech.htm",
+        "date": "28 March 2011",
+        "id": 140
+    },
+    {
+        "speech": "Speech on American Energy Security at Georgetown Univ.",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaamericanenergysecurity.htm",
+        "date": "30 March 2011",
+        "id": 141
+    },
+    {
+        "speech": "Speech on Improving Fiscal Policy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafiscalpolicy2011.htm",
+        "date": "13 April 2011",
+        "id": 142
+    },
+    {
+        "speech": "Announcement of 2012 Presidential Candidacy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2012prescandidacy.htm",
+        "date": "26 April 2011",
+        "id": 143
+    },
+    {
+        "speech": "Speech on Release of Official Certification of Birth",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabirthcertificatespeech.htm",
+        "date": "27 April 2011",
+        "id": 144
+    },
+    {
+        "speech": "On-site Remarks on the Tornado Devastation in Alabama",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaalabamatornado.htm",
+        "date": "29 April 2011",
+        "id": 145
+    },
+    {
+        "speech": "Commencement Speech at Miami Dade College",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamiamidadecommencement.htm",
+        "date": "29 April 2011",
+        "id": 146
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2011.htm",
+        "date": "30 April 2011",
+        "id": 147
+    },
+    {
+        "speech": "Speech Announcing the Death of Osama Bin Laden",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaosamabinladendeath.htm",
+        "date": "01 May 2011",
+        "id": 148
+    },
+    {
+        "speech": "Speech to Troops at Fort Campbell",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafortcampbellkytroops.htm",
+        "date": "06 May 2011",
+        "id": 149
+    },
+    {
+        "speech": "Commencement Speech at Booker T. Washington HS",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabookertwashington.htm",
+        "date": "16 May 2011",
+        "id": 150
+    },
+    {
+        "speech": "Speech on American Diplomacy in Middle East and North Africa",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamiddleeastpolicy.htm",
+        "date": "19 May 2011",
+        "id": 151
+    },
+    {
+        "speech": "Speech to Intelligence Community at CIA Headquarters",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaciaheadquarters.htm",
+        "date": "20 May 2011",
+        "id": 152
+    },
+    {
+        "speech": "Joint Press Conference with Benjamin Netanyahu",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabenjaminnetanyahujointpress.htm",
+        "date": "20 May 2011",
+        "id": 153
+    },
+    {
+        "speech": "Speech at the American-Israel Public Affairs Policy Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaipacpc2011.htm",
+        "date": "22 May 2011",
+        "id": 154
+    },
+    {
+        "speech": "Speech to the British Parliament",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabritishparliament.htm",
+        "date": "25 May 2011",
+        "id": 155
+    },
+    {
+        "speech": "Speech at the Memorial for Joplin Tornado Victims",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajoplinmemorial.htm",
+        "date": "29 May 2011",
+        "id": 156
+    },
+    {
+        "speech": "Department of Defense Personnel Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadefensepersonnel.htm",
+        "date": "30 May 2011",
+        "id": 157
+    },
+    {
+        "speech": "Speech to the Nation on Afghanistan War Troop Reduction",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaafghanistanwardrawdown.htm",
+        "date": "22 June 2011",
+        "id": 158
+    },
+    {
+        "speech": "Speech at Carnegie Mellon's Robotics Engineering Center",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacarnegiemellonrobotics.htm",
+        "date": "24 June 2011",
+        "id": 159
+    },
+    {
+        "speech": "Presser on Congressional Action to Promote Job Growth",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajobgrowthpresser.htm",
+        "date": "29 June 2011",
+        "id": 160
+    },
+    {
+        "speech": "Speech to the Nation on the Budget and Debt Ceiling",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadeficitreductionplan.htm",
+        "date": "25 July 2011",
+        "id": 161
+    },
+    {
+        "speech": "Statement on the Debt Compromise Agreement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadebtapprovalstmt.htm",
+        "date": "31 July 2011",
+        "id": 162
+    },
+    {
+        "speech": "Statement on the Approved Debt Compromise",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadebtcompromise.htm",
+        "date": "02 August 2011",
+        "id": 163
+    },
+    {
+        "speech": "Speech to the American Legion Conference in Minnesota",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaamericanlegion2011.htm",
+        "date": "30 August 2011",
+        "id": 164
+    },
+    {
+        "speech": "Speech to a Joint Session of Congress on Economy and Jobs",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajointsessionjobs.htm",
+        "date": "08 September 2011",
+        "id": 165
+    },
+    {
+        "speech": "Speech on Economic Growth and Deficit Reduction",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeconomicplandebtreductionbill.htm",
+        "date": "19 September 2011",
+        "id": 166
+    },
+    {
+        "speech": "Speech on High-Level UNGA Meeting on Libya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunlibya.htm",
+        "date": "20 September 2011",
+        "id": 167
+    },
+    {
+        "speech": "United Nations 66th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations66.htm",
+        "date": "21 September 2011",
+        "id": 168
+    },
+    {
+        "speech": "Speech at the Martin Luther King, Jr. Memorial Dedication",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamlkmemorialdedication.htm",
+        "date": "16 October 2011",
+        "id": 169
+    },
+    {
+        "speech": "Speech on the Death of Muammar Qaddafi",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaqaddafideath.htm",
+        "date": "20 October 2011",
+        "id": 170
+    },
+    {
+        "speech": "Speech on Ending the War in Iraq Responsibly",
+        "link": "http://www.americanrhetoric.com/speeches/wariniraq/barackobamaendingiraqwar.htm",
+        "date": "21 October 2011",
+        "id": 171
+    },
+    {
+        "speech": "Speech to the Australian Parliament",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaustralianparliament.htm",
+        "date": "16 November 2011",
+        "id": 172
+    },
+    {
+        "speech": "Speech to the Tribal Nations Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatribalnationsconference.htm",
+        "date": "02 December 2011",
+        "id": 173
+    },
+    {
+        "speech": "Speech on the Economy at Osawatomie High School",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaosawatomieeconomy.htm",
+        "date": "06 December 2011",
+        "id": 174
+    },
+    {
+        "speech": "Weekly Address Honoring Military Servicemembers in Iraq",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaweeklyaddress17dec2011.htm",
+        "date": "17 December 2011",
+        "id": 175
+    },
+    {
+        "speech": "Speech on Military Defense Strategic Review",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamilitarystrategychanges.htm",
+        "date": "05 January 2012",
+        "id": 176
+    },
+    {
+        "speech": "Third Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2012.htm",
+        "date": "24 January 2012",
+        "id": 177
+    },
+    {
+        "speech": "Iraq War Veterans and Families Gala Toast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqwarveterangala.htm",
+        "date": "29 February 2012",
+        "id": 178
+    },
+    {
+        "speech": "Speech to the American-Israel Public Affairs Committee",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaipac2012.htm",
+        "date": "04 March 2012",
+        "id": 179
+    },
+    {
+        "speech": "Hankuk University Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahankukuniversity.htm",
+        "date": "26 March 2012",
+        "id": 180
+    },
+    {
+        "speech": "Speech on Repealing Oil and Gas Subsidies",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagasoilsubsidies.htm",
+        "date": "29 March 2012",
+        "id": 181
+    },
+    {
+        "speech": "Speech at an Associated Press Luncheon",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaapluncheon.htm",
+        "date": "03 April 2012",
+        "id": 182
+    },
+    {
+        "speech": "U.S. Holocaust Memorial Museum Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationalholocaustmemorialmuseum.htm",
+        "date": "23 April 2012",
+        "id": 183
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2012.htm",
+        "date": "28 April 2012",
+        "id": 184
+    },
+    {
+        "speech": "Barnard College Commencement Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabarnardcollegecommencement.htm",
+        "date": "14 May 2012",
+        "id": 185
+    },
+    {
+        "speech": "Shimon Peres Presidential Medal of Freedom Award Remarks",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamashimonperesemedaloffreedom.htm",
+        "date": "13 June 2012",
+        "id": 186
+    },
+    {
+        "speech": "On the US Supreme Court Affordable Care Act Ruling",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamausschealthcareruling.htm",
+        "date": "28 June 2012",
+        "id": 187
+    },
+    {
+        "speech": "Remarks on the Tragedy in Aurora Colorado",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaauroratragedy.htm",
+        "date": "20 July 2012",
+        "id": 188
+    },
+    {
+        "speech": "Speech to the 113th Veterans of Foreign Wars Convention",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama113vfw.htm",
+        "date": "23 July 2012",
+        "id": 189
+    },
+    {
+        "speech": "Second Presidential Nomination Acceptance Speech",
+        "link": "http://www.americanrhetoric.com/speeches/convention2012/barackobama2012dnc.htm",
+        "date": "06 September 2012",
+        "id": 190
+    },
+    {
+        "speech": "Rose Garden Address on Benghazi Attacks",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabenghaziattacks.htm",
+        "date": "12 September 2012",
+        "id": 191
+    },
+    {
+        "speech": "Benghazi Victims Transfer of Remains Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabenghazivictims.htm",
+        "date": "14 September 2012",
+        "id": 192
+    },
+    {
+        "speech": "Clinton Global Initiative Speech on Human Trafficking",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaclintonglobalinitiative2012.htm",
+        "date": "25 September 2012",
+        "id": 193
+    },
+    {
+        "speech": "United Nations 67th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations67.htm",
+        "date": "25 September 2012",
+        "id": 194
+    },
+    {
+        "speech": "First Presidential Candidate Debate with Mitt Romney",
+        "link": "http://www.americanrhetoric.com/speeches/obama-romneyfirstdebate.htm",
+        "date": "03 October 2012",
+        "id": 195
+    },
+    {
+        "speech": "Second Presidential Candidate Debate with Mitt Romney",
+        "link": "http://www.americanrhetoric.com/speeches/obama-romneyseconddebate.htm",
+        "date": "17 October 2012",
+        "id": 196
+    },
+    {
+        "speech": "Third Presidential Candidate Debate with Mitt Romney",
+        "link": "http://www.americanrhetoric.com/speeches/obama-romneythirddebate.htm",
+        "date": "23 October 2012",
+        "id": 197
+    },
+    {
+        "speech": "Statement on Hurricane Sandy After Emergency Team Briefings",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahurricanesandy29oct.htm",
+        "date": "29 October 2012",
+        "id": 198
+    },
+    {
+        "speech": "Statement on Hurricane Sandy at the American Red Cross",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaredcross.htm",
+        "date": "30 October 2012",
+        "id": 199
+    },
+    {
+        "speech": "Second Presidential Election Victory Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasecondpresidentialvictoryspeech.htm",
+        "date": "07 November 2012",
+        "id": 200
+    },
+    {
+        "speech": "Post Election Speech on Deficit Reduction and Jobs",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapostelectioneconomy.htm",
+        "date": "09 November 2012",
+        "id": 201
+    },
+    {
+        "speech": "First Press Conference Following Presidential Reelection",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapresserpetraeus.htm",
+        "date": "14 November 2012",
+        "id": 202
+    },
+    {
+        "speech": "Yangon University Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamayangonuniversity.htm",
+        "date": "19 November 2012",
+        "id": 203
+    },
+    {
+        "speech": "Statement on the Sandy Hook Elementary School Shootings",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanewtownshooting.htm",
+        "date": "14 December 2012",
+        "id": 204
+    },
+    {
+        "speech": "Newtown, Connecticut Interfaith Vigil Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanewtownvigilspeech.htm",
+        "date": "16 December 2012",
+        "id": 205
+    },
+    {
+        "speech": "End Year Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunviolencepresser.htm",
+        "date": "19 December 2012",
+        "id": 206
+    },
+    {
+        "speech": "Eulogy for Senator Daniel Inouye",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadanielinouyeeulogy.htm",
+        "date": "21 December 2012",
+        "id": 207
+    },
+    {
+        "speech": "Final First Term Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinalfirsttermpresser.htm",
+        "date": "14 January 2013",
+        "id": 208
+    },
+    {
+        "speech": "On Signing Executive Actions to Reduce Gun Violence",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunviolenceexecacts.htm",
+        "date": "16 January 2013",
+        "id": 209
+    },
+    {
+        "speech": "SECOND PRESIDENTIAL INAUGURAL ADDRESS",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasecondinauguraladdress.htm",
+        "date": "2 January 2013",
+        "id": 210
+    },
+    {
+        "speech": "Comprehensive Immigration Reform Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaimmagrationreform.htm",
+        "date": "29 January 2013",
+        "id": 211
+    },
+    {
+        "speech": "Fourth Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2013.htm",
+        "date": "12 February 2013",
+        "id": 212
+    },
+    {
+        "speech": "On Strengthening the Economy for the Middle Class",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamiddleclasseconomy.htm",
+        "date": "15 February 2013",
+        "id": 213
+    },
+    {
+        "speech": "Newport News Speech on the Impact of the Sequester",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasequesternewportnews.htm",
+        "date": "26 February 2013",
+        "id": 214
+    },
+    {
+        "speech": "Rosa Parks Statue Dedication Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamarosaparksstatue.htm",
+        "date": "27 February 2013",
+        "id": 215
+    },
+    {
+        "speech": "Jerusalem International Convention Center Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajerusalemconventioncenter.htm",
+        "date": "21 March 2013",
+        "id": 216
+    },
+    {
+        "speech": "BRAIN Initiative Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabraininitiative.htm",
+        "date": "02 April 2013",
+        "id": 217
+    },
+    {
+        "speech": "Gun Violence Reduction Speech in Colorado",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunviolencereductiondenver.htm",
+        "date": "03 April 2013",
+        "id": 218
+    },
+    {
+        "speech": "Gun Violence Reduction Speech in Connecticut",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunviolencereductionconnecticut.htm",
+        "date": "08 April 2013",
+        "id": 219
+    },
+    {
+        "speech": "U.S. Army Chaplain Emil Kapaun Medal of Honor Award",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaemilkapaunmedalofhonor.htm",
+        "date": "11 April 2013",
+        "id": 220
+    },
+    {
+        "speech": "First Statement on Boston Marathon Bombings",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabostonmarathonexplosionsfirststatement.htm",
+        "date": "15 April 2013",
+        "id": 221
+    },
+    {
+        "speech": "Second Statement on Boston Marathon Bombings",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabostonmarathonexplosionssecondstatement.htm",
+        "date": "16 April 2013",
+        "id": 222
+    },
+    {
+        "speech": "On Senate Vote Against Background Check Gun Amendment",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasenateguncontrolbillvote.htm",
+        "date": "17 April 2013",
+        "id": 223
+    },
+    {
+        "speech": "Third Statement on Boston Marathon Bombings",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabostonmarathonexplosionsthirdstatement.htm",
+        "date": "19 April 2013",
+        "id": 224
+    },
+    {
+        "speech": "Boston Interfaith Prayer Service Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabostoninterfaithprayerservice.htm",
+        "date": "19 April 2013",
+        "id": 225
+    },
+    {
+        "speech": "George W. Bush Presidential Library Dedication Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagwbushlibrarydedication.htm",
+        "date": "25 April 2013",
+        "id": 226
+    },
+    {
+        "speech": "West Fertilizer Plant Tragedy Memorial Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawestfertilizerplantmemorial.htm",
+        "date": "25 April 2013",
+        "id": 227
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2013.htm",
+        "date": "27 April 2013",
+        "id": 228
+    },
+    {
+        "speech": "Press Q&A on Syria and Sundry Topics",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasyriaetalpresser.htm",
+        "date": "30 April 2013",
+        "id": 229
+    },
+    {
+        "speech": "Speech to the People of Mexico",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamexicopeople.htm",
+        "date": "03 May 2013",
+        "id": 230
+    },
+    {
+        "speech": "Remarks on IG Audit of the IRS",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairsmisconduct.htm",
+        "date": "15 May 2013",
+        "id": 231
+    },
+    {
+        "speech": "Morehouse College Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamorehousecollegecommencement.htm",
+        "date": "19 May 2013",
+        "id": 232
+    },
+    {
+        "speech": "National Defense University Speech on Terrorism",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationaldefenseuniversity.htm",
+        "date": "23 May 2013",
+        "id": 233
+    },
+    {
+        "speech": "U.S. Naval Academy Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanavalacademycommencement.htm",
+        "date": "24 May 2013",
+        "id": 234
+    },
+    {
+        "speech": "On Affordable Care Act and Government Domestic Surveillance",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasanjosesurveillance.htm",
+        "date": "07 June 2013",
+        "id": 235
+    },
+    {
+        "speech": "US Senate Call to Comprehensive Immigration Reform",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaimmigrationreformcomprehensive.htm",
+        "date": "11 June 2013",
+        "id": 236
+    },
+    {
+        "speech": "Northern Ireland Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanorthernireland.htm",
+        "date": "17 June 2013",
+        "id": 237
+    },
+    {
+        "speech": "Brandenburg Gate Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabrandenburggate.htm",
+        "date": "19 June 2013",
+        "id": 238
+    },
+    {
+        "speech": "Cape Town University Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacapetownuniversity.htm",
+        "date": "30 June 2013",
+        "id": 239
+    },
+    {
+        "speech": "Speech on Trayvon Martin",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatrayvonmartin.htm",
+        "date": "19 July 2013",
+        "id": 240
+    },
+    {
+        "speech": "Knox College Speech on the Economy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaknoxcollegeeconomy.htm",
+        "date": "24 July 2013",
+        "id": 241
+    },
+    {
+        "speech": "Intelligence Gathering Reform Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaintelreformpresser.htm",
+        "date": "09 August 2013",
+        "id": 242
+    },
+    {
+        "speech": "'Let Freedom Ring' Ceremony Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaletfreedomringceremony.htm",
+        "date": "28 August 2013",
+        "id": 243
+    },
+    {
+        "speech": "On Syrian Government Use of Chemical Weapons",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasyriachemicalweapons.htm",
+        "date": "31 August 2013",
+        "id": 244
+    },
+    {
+        "speech": "Speech to the Nation on Syria",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasyrianation.htm",
+        "date": "10 September 2013",
+        "id": 245
+    },
+    {
+        "speech": "Navy Yard Shooting Memorial Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanavyyardshootingmemorial.htm",
+        "date": "22 September 2013",
+        "id": 246
+    },
+    {
+        "speech": "United Nations 68th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations68.htm",
+        "date": "24 September 2013",
+        "id": 247
+    },
+    {
+        "speech": "Discussion on Health Care with WJClinton at Global Initiative",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaclintonglobalinitiative.htm",
+        "date": "24 September 2013",
+        "id": 248
+    },
+    {
+        "speech": "Government Shutdown Statement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagovernmentshutdown.htm",
+        "date": "02 October 2013",
+        "id": 249
+    },
+    {
+        "speech": "Affordable Care Act Website Issues Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaffordablecareactwebsiteproblems.htm",
+        "date": "21 October 2013",
+        "id": 250
+    },
+    {
+        "speech": "Veterans Day Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaveteransday2013.htm",
+        "date": "11 November 2013",
+        "id": 251
+    },
+    {
+        "speech": "Affordable Care Act Changes Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaffordablecareactchanges.htm",
+        "date": "14 November 2013",
+        "id": 252
+    },
+    {
+        "speech": "Iran Accord Statement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairanaccordstatement.htm",
+        "date": "23 November 2013",
+        "id": 253
+    },
+    {
+        "speech": "On the Passing of Nelson \"Madiba\"Mandela",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamandelapassing.htm",
+        "date": "05 December 2013",
+        "id": 254
+    },
+    {
+        "speech": "Address at the Public Memorial for Nelson Mandela",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanelsonmandelamemorial.htm",
+        "date": "10 December 2013",
+        "id": 255
+    },
+    {
+        "speech": "End of Year Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinal2013presser.htm",
+        "date": "20 December 2013",
+        "id": 256
+    },
+    {
+        "speech": "On Proposed Changes to US Intelligence Programs",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasignalsintelreview.htm",
+        "date": "17 January 2014",
+        "id": 257
+    },
+    {
+        "speech": "Fifth Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2014.htm",
+        "date": "28 January 2014",
+        "id": 258
+    },
+    {
+        "speech": "Speech at the 62nd National Prayer Breakfast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2014prayerbreakfast.htm",
+        "date": "06 February 2014",
+        "id": 259
+    },
+    {
+        "speech": "Civil Rights Summit Keynote Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaustincivilrights.htm",
+        "date": "10 April 2014",
+        "id": 260
+    },
+    {
+        "speech": "Press Conference on Affordable Care Act and Ukraine",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapressconference04-17-14.htm",
+        "date": "17 April 2014",
+        "id": 261
+    },
+    {
+        "speech": "Joint Presser with Japan Prime Minister Shinzo Abe",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapmabejapanjointpresser.htm",
+        "date": "24 April 2014",
+        "id": 262
+    },
+    {
+        "speech": "Young Leaders Town Hall Malaysia",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYSEALIMalaysia.htm",
+        "date": "27 April 2014",
+        "id": 263
+    },
+    {
+        "speech": "Joint Presser with Philippine President Benigno Aquino III",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabenignoaquinojointpresser.htm",
+        "date": "28 April 2014",
+        "id": 264
+    },
+    {
+        "speech": "Fort Bonifacio Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafortbonifacio.htm",
+        "date": "29 April 2014",
+        "id": 265
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2014.htm",
+        "date": "03 May 2014",
+        "id": 266
+    },
+    {
+        "speech": "On Misconduct Allegations at Veterans Affairs Administration",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamavamisconductallegations.htm",
+        "date": "21 May 2014",
+        "id": 267
+    },
+    {
+        "speech": "U.S. Military Academy Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawestpointcommencement2014.htm",
+        "date": "28 May 2014",
+        "id": 268
+    },
+    {
+        "speech": "Presser on Veterans Administration Department Misconduct",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaveteransaffairsmisconduct.htm",
+        "date": "30 May 2014",
+        "id": 269
+    },
+    {
+        "speech": "Polish Freedom Day Anniversary Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafreedomdaypoland.htm",
+        "date": "04 June 2014",
+        "id": 270
+    },
+    {
+        "speech": "70th Anniversary of D-Day Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadday70.htm",
+        "date": "06 June 2014",
+        "id": 271
+    },
+    {
+        "speech": "Immigration Reform and Border Security",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaimmigrationbordersecurity.htm",
+        "date": "30 June 2014",
+        "id": 272
+    },
+    {
+        "speech": "On the Downing of Malaysian Airlines Flight 17",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaflightmh17.htm",
+        "date": "18 July 2014",
+        "id": 273
+    },
+    {
+        "speech": "SSG Ryan Pitts Medal of Honor Ceremony Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaryanpittsmedalofhonor.htm",
+        "date": "21 July 2014",
+        "id": 274
+    },
+    {
+        "speech": "Presser on Executive Action and Foreign Policy",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeconomyforeignpolicy.htm",
+        "date": "01 August 2014",
+        "id": 275
+    },
+    {
+        "speech": "On Authorizing Air Strikes and Humanitarian Effort in Iraq",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqairstrikehumanitarianeffort.htm",
+        "date": "07 August 2014",
+        "id": 276
+    },
+    {
+        "speech": "Update on Air Strikes and Humanitarian Aid in Iraq",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqairstrikehumanitarianeffortupdate.htm",
+        "date": "09 August 2014",
+        "id": 277
+    },
+    {
+        "speech": "On Iraq and Ferguson, Missouri Situation",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafergusonmissouri.htm",
+        "date": "14 August 2014",
+        "id": 278
+    },
+    {
+        "speech": "Press Statement on the Economy, Iraq, and Ukraine",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairaqukraine.htm",
+        "date": "28 August 2014",
+        "id": 279
+    },
+    {
+        "speech": "Joint Presser with Toomas Ilves",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajointpressertoomasilves.htm",
+        "date": "03 September 2014",
+        "id": 280
+    },
+    {
+        "speech": "Address to the People of Estonia",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaestoniapeople.htm",
+        "date": "03 September 2014",
+        "id": 281
+    },
+    {
+        "speech": "Speech to Nation on the Islamic State of Syria and the Levant",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaisilspeechtonation.htm",
+        "date": "10 September 2014",
+        "id": 282
+    },
+    {
+        "speech": "Speech on Ebola Response at the CDC",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaebolacdc.htm",
+        "date": "16 September 2014",
+        "id": 283
+    },
+    {
+        "speech": "United Nations 69th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations69.htm",
+        "date": "24 September 2014",
+        "id": 284
+    },
+    {
+        "speech": "United Nations Security Council Remarks",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednationssecuritycouncil2014.htm",
+        "date": "24 September 2014",
+        "id": 285
+    },
+    {
+        "speech": "United Nations Meeting on Ebola Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednationsebola.htm",
+        "date": "25 September 2014",
+        "id": 286
+    },
+    {
+        "speech": "Speech On Signing Executive Order 13681 at the CFPB",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamexecutiveorder13681acfpb.htm",
+        "date": "17 October 2014",
+        "id": 287
+    },
+    {
+        "speech": "Ebola Response Update Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaebolaresponseupdate.htm",
+        "date": "28 October 2014",
+        "id": 288
+    },
+    {
+        "speech": "Midterm Elections Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamidtermrepublicanvictorypresser.htm",
+        "date": "05 November 2014",
+        "id": 289
+    },
+    {
+        "speech": "Joint Press Conference with Daw Aung San Suu Kyi",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasuukyipresser.htm",
+        "date": "14 November 2014",
+        "id": 290
+    },
+    {
+        "speech": "Young Leaders Town Hall Myanmar/Burma",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYSEALIMyanmar.htm",
+        "date": "14 November 2014",
+        "id": 291
+    },
+    {
+        "speech": "National Immigration Policy Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaimmigrationnationalpolicy.htm",
+        "date": "20 November 2014",
+        "id": 292
+    },
+    {
+        "speech": "NIH Ebola Vaccine Research Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaebolavaccineNIH.htm",
+        "date": "02 December 2014",
+        "id": 293
+    },
+    {
+        "speech": "Cuba Detente Policy Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacubapolicychanges.htm",
+        "date": "17 December 2014",
+        "id": 294
+    },
+    {
+        "speech": "End of Year Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinal2014presser.htm",
+        "date": "19 December 2014",
+        "id": 295
+    },
+    {
+        "speech": "American's College Promise Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacommunitycollegefreeplan.htm",
+        "date": "09 January 2015",
+        "id": 296
+    },
+    {
+        "speech": "Federal Trade Commission Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaftc2014.htm",
+        "date": "12 January 2015",
+        "id": 297
+    },
+    {
+        "speech": "National Cybersecurity Communication Center Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanccic.htm",
+        "date": "13 January 2015",
+        "id": 298
+    },
+    {
+        "speech": "Sixth Presidential State of the Union Speech",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2015.htm",
+        "date": "20 January 2015",
+        "id": 299
+    },
+    {
+        "speech": "Speech to the People of India in New Delhi",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaindia2015.htm",
+        "date": "27 January 2015",
+        "id": 300
+    },
+    {
+        "speech": "Speech at the 63rd National Prayer Breakfast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2015prayerbreakfast.htm",
+        "date": "05 February 2015",
+        "id": 301
+    },
+    {
+        "speech": "On Force Authorization Request Against ISIL",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaISILforceauthorization.htm",
+        "date": "11 February 2015",
+        "id": 302
+    },
+    {
+        "speech": "Stanford University Cybersecurity Summit Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamastanfordcybersecurity.htm",
+        "date": "13 February 2015",
+        "id": 303
+    },
+    {
+        "speech": "Countering Violent Religious Extremism Summit Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaviolentreligiousextremism.htm",
+        "date": "18 February 2015",
+        "id": 304
+    },
+    {
+        "speech": "On Iran Negotiations and PM Netanyahu's Speech to Congress",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairanpmnetanyahucongressspeech.htm",
+        "date": "03 March 2015",
+        "id": 305
+    },
+    {
+        "speech": "Selma March 50-Year Anniversary Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaselma50anniversarymarch.htm",
+        "date": "07 March 2015",
+        "id": 306
+    },
+    {
+        "speech": "Student Aid Bill of Rights Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamastudentaidbillofrights.htm",
+        "date": "10 March 2015",
+        "id": 307
+    },
+    {
+        "speech": "Edward M. Kennedy Institute Dedication Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatedkennedyinstitutededication.htm",
+        "date": "30 March 2015",
+        "id": 308
+    },
+    {
+        "speech": "Statement on Iran Nuclear Agreement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairannuclearagreement.htm",
+        "date": "02 April 2015",
+        "id": 309
+    },
+    {
+        "speech": "Young Leaders Town Hall in Jamaica",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYLAIJamaica.htm",
+        "date": "09 April 2015",
+        "id": 310
+    },
+    {
+        "speech": "Civil Society Forum Address in Panama",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacivilsocietyforum.htm",
+        "date": "10 April 2015",
+        "id": 311
+    },
+    {
+        "speech": "Press Conference Following Summit of the Americas",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapanamapostpresser.htm",
+        "date": "11 April 2015",
+        "id": 312
+    },
+    {
+        "speech": "Remarks at the Summit of the Americas First Plenary Session",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasummitamericasplenarysession.htm",
+        "date": "11 April 2015",
+        "id": 313
+    },
+    {
+        "speech": "On Hostage Deaths of Warren Weinstein and Giovanni Lo Porto",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahostagedronedeaths.htm",
+        "date": "23 April 2015",
+        "id": 314
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2015.htm",
+        "date": "25 April 2015",
+        "id": 315
+    },
+    {
+        "speech": "Transpacific Trade Pact Speech at Nike HQ",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamatradenike.htm",
+        "date": "08 May 2015",
+        "id": 316
+    },
+    {
+        "speech": "National Jewish American Heritage Month Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaadasisraelcongregation.htm",
+        "date": "22 May 2015",
+        "id": 317
+    },
+    {
+        "speech": "Southeast Asian Youth Imitative Fellows Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYSEALIWashingtonDC.htm",
+        "date": "01 June 2015",
+        "id": 318
+    },
+    {
+        "speech": "Eulogy for Beau Biden III",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabeaubideneulogy.htm",
+        "date": "06 June 2015",
+        "id": 319
+    },
+    {
+        "speech": "Post G7 Conference Presser",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaG7conference2015.htm",
+        "date": "08 June 2015",
+        "id": 320
+    },
+    {
+        "speech": "Statement on the Charleston Emanuel AME Church Shooting",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasouthcarolinashooting.htm",
+        "date": "18 June 2015",
+        "id": 321
+    },
+    {
+        "speech": "U.S. Conference of Mayors Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamayorsconference2015.htm",
+        "date": "19 June 2015",
+        "id": 322
+    },
+    {
+        "speech": "Hostage Policy Review Statement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahostagepolicyreview.htm",
+        "date": "24 June 2015",
+        "id": 323
+    },
+    {
+        "speech": "On the USSC Ruling on the Affordable Care Act",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaaffordablecareactUSSC.htm",
+        "date": "25 June 2015",
+        "id": 324
+    },
+    {
+        "speech": "Eulogy for Revered Clementa C. Pinckney",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaclementapinckneyeulogy.htm",
+        "date": "26 June 2015",
+        "id": 325
+    },
+    {
+        "speech": "Pentagon Address on Defeating the Islamic State",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaisilprogresspentagon.htm",
+        "date": "06 July 2015",
+        "id": 326
+    },
+    {
+        "speech": "Address at White House Aging Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaagingconference.htm",
+        "date": "13 July 2015",
+        "id": 327
+    },
+    {
+        "speech": "NAACP Convention Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanaacp2015.htm",
+        "date": "14 July 2015",
+        "id": 328
+    },
+    {
+        "speech": "Iran Nuclear Accord Agreement Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairannucleardealfinal.htm",
+        "date": "14 July 2015",
+        "id": 329
+    },
+    {
+        "speech": "Post Iran Nuclear Accord Agreement Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairannuclearaccordfinalpresser.htm",
+        "date": "15 July 2015",
+        "id": 330
+    },
+    {
+        "speech": "Kenya Civil Society Meeting",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakenyacivilsociety.htm",
+        "date": "26 July 2015",
+        "id": 331
+    },
+    {
+        "speech": "Address to the People of Kenya",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakenyapeople.htm",
+        "date": "26 July 2015",
+        "id": 332
+    },
+    {
+        "speech": "Address to African Continent Representatives",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaafricancontinentreps.htm",
+        "date": "28 July 2015",
+        "id": 333
+    },
+    {
+        "speech": "Clean Power Plan Announcement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacleanpowerplan.htm",
+        "date": "03 August 2015",
+        "id": 334
+    },
+    {
+        "speech": "Iran Nuclear Deal Address at American University",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairanamericanuniversity.htm",
+        "date": "05 August 2015",
+        "id": 335
+    },
+    {
+        "speech": "On Hurricane Katrina & 10-Year Aftermath",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakatrinahurricane10years.htm",
+        "date": "27 August 2015",
+        "id": 336
+    },
+    {
+        "speech": "Worldwide Troop Talk at Fort Meade",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaworldwidetrooptalk.htm",
+        "date": "11 September 2015",
+        "id": 337
+    },
+    {
+        "speech": "Congressional Black Caucus Awards Dinner Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacongressionalblackcaucus2015.htm",
+        "date": "19 September 2015",
+        "id": 338
+    },
+    {
+        "speech": "Pope Francis White House Welcome Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapopefranciswhitehousewelcome.htm",
+        "date": "23 September 2015",
+        "id": 339
+    },
+    {
+        "speech": "General Martin Dempsey Retirement Ceremony Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamartindempseyretirement.htm",
+        "date": "25 September 2015",
+        "id": 340
+    },
+    {
+        "speech": "United Nations 70th Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations70.htm",
+        "date": "28 September 2015",
+        "id": 341
+    },
+    {
+        "speech": "Statement on Umpqua Community College Mass Shooting",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaumpquashootings.htm",
+        "date": "01 October 2015",
+        "id": 342
+    },
+    {
+        "speech": "Presser on Education Secretary Change, Economy, Syria, etc.",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapressconference10-02-15.htm",
+        "date": "02 October 2015",
+        "id": 343
+    },
+    {
+        "speech": "Afghanistan Statement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaafghanistanstatement.htm",
+        "date": "15 October 2015",
+        "id": 344
+    },
+    {
+        "speech": "Community Forum Address on Prescription Drug Abuse",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawestvirginiacommunityforum.htm",
+        "date": "21 October 2015",
+        "id": 345
+    },
+    {
+        "speech": "Statement on the Paris Terrorist Attacks",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaparisterrorattacks.htm",
+        "date": "13 November 2015",
+        "id": 346
+    },
+    {
+        "speech": "Message to the People of Burundi",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaburundipeoplemessage.htm",
+        "date": "13 November 2015",
+        "id": 347
+    },
+    {
+        "speech": "G-20 Press Conference in Antalya, Turkey",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaturkeypresser.htm",
+        "date": "16 November 2015",
+        "id": 348
+    },
+    {
+        "speech": "ASEAN Business and Investment Summit Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaASEAN2015.htm",
+        "date": "21 November 2015",
+        "id": 349
+    },
+    {
+        "speech": "Malaysia Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamalaysiapresser2015.htm",
+        "date": "22 November 2015",
+        "id": 350
+    },
+    {
+        "speech": "Joint Press Conference with Fran",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafrancoishollandpresser.htm",
+        "date": "24 November 2015",
+        "id": 351
+    },
+    {
+        "speech": "ois Hollande",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafrancoishollandpresser.htm",
+        "date": "30 November 2015",
+        "id": 352
+    },
+    {
+        "speech": "COP21, Session 1 Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacop21.htm",
+        "date": "01 December 2015",
+        "id": 353
+    },
+    {
+        "speech": "Paris Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaparispressconference.htm",
+        "date": "06 December 2015",
+        "id": 354
+    },
+    {
+        "speech": "On Foreign and Domestic Strategies Against Terrorism",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaforeigndomesticterrorismresponseovaloffice.htm",
+        "date": "09 December 2015",
+        "id": 355
+    },
+    {
+        "speech": "113th Amendment 150-Year Anniversary Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama13thamendment150anniversary.htm",
+        "date": "10 December 2015",
+        "id": 356
+    },
+    {
+        "speech": "Every Child Succeeds Act Signing Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeverystudentsucceeds.htm",
+        "date": "12 December 2015",
+        "id": 357
+    },
+    {
+        "speech": "Statement on Paris Climate Agreement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaparisclimateagreement.htm",
+        "date": "14 December 2015",
+        "id": 358
+    },
+    {
+        "speech": "Counter ISIL Campaign Update",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacounterISILupdate12-14-15.htm",
+        "date": "17 December 2015",
+        "id": 359
+    },
+    {
+        "speech": "Address at the National Counterterrorism Center",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationalcounterterrorismcenter.htm",
+        "date": "18 December 2015",
+        "id": 360
+    },
+    {
+        "speech": "End of Year Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinal2015presser.htm",
+        "date": "01 January 2016",
+        "id": 361
+    },
+    {
+        "speech": "Weekly Address: Making \"America Safer for Our Children",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/weeklyaddresses/barackobamaweekly1-1-16.htm",
+        "date": "05 January 2016",
+        "id": 362
+    },
+    {
+        "speech": "Speech Detailing Steps to Reduce Gun Violence",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunviolencereduction.htm",
+        "date": "07 January 2016",
+        "id": 363
+    },
+    {
+        "speech": "Remarks at CNN Town Hall on Guns in America",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagunsinamericancnntownhall.htm",
+        "date": "12 January 2016",
+        "id": 364
+    },
+    {
+        "speech": "Final Presidential State of the Union Address",
+        "link": "http://www.americanrhetoric.com/speeches/stateoftheunion2016.htm",
+        "date": "17 January 2016",
+        "id": 365
+    },
+    {
+        "speech": "On Lifting Iran Sanctions and U.S. Detainee Releases",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamairansanctionslifted.htm",
+        "date": "27 January 2016",
+        "id": 366
+    },
+    {
+        "speech": "Righteous Among Nations Award Ceremony Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamarighteousamongnationsceremony.htm",
+        "date": "03 February 2016",
+        "id": 367
+    },
+    {
+        "speech": "Islamic Society of Baltimore Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaislamicsocietybaltimore.htm",
+        "date": "04 February 2016",
+        "id": 368
+    },
+    {
+        "speech": "Speech at the 64th National Prayer Breakfast",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2016prayerbreakfast.htm",
+        "date": "10 February 2016",
+        "id": 369
+    },
+    {
+        "speech": "Address to the Illinois General Assembly",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamailliinoisgeneralassembly.htm",
+        "date": "13 February 2016",
+        "id": 370
+    },
+    {
+        "speech": "Address on the Passing of USSC Justice Antonin Scalia",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaantoninscaliapassing.htm",
+        "date": "16 February 2016",
+        "id": 371
+    },
+    {
+        "speech": "U.S-ASEAN Summit Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaASEANpresser.htm",
+        "date": "20 February 2016",
+        "id": 372
+    },
+    {
+        "speech": "Weekly Address - A New Chapter with Cuba",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaweeklyaddresscubanewchapter.htm",
+        "date": "23 February 2016",
+        "id": 373
+    },
+    {
+        "speech": "Address on Closing Guantanamo Bay Detention Facility",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaguantanamobayclosing.htm",
+        "date": "25 February 2016",
+        "id": 374
+    },
+    {
+        "speech": "Update on Progress to Degrade and Destroy ISIL",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaISILupdate.htm",
+        "date": "26 February 2016",
+        "id": 375
+    },
+    {
+        "speech": "Recovery and Reinvestment Act Seventh Anniversary",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamarecoveryandreinvestmentact.htm",
+        "date": "11 March 2016",
+        "id": 376
+    },
+    {
+        "speech": "South by Southwest Interactive Remarks",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasxsw.htm",
+        "date": "16 March 2016",
+        "id": 377
+    },
+    {
+        "speech": "Merrick Garland USSC Nomination Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamamerrickgarlandnomination.htm",
+        "date": "21 March 2016",
+        "id": 378
+    },
+    {
+        "speech": "Joint Press Conference with President Raul Castro",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaraulcastropresser.htm",
+        "date": "21 March 2016",
+        "id": 379
+    },
+    {
+        "speech": "Address and Q&A at a Cuba Entrepreneurs Event",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacubaentrepreneurs.htm",
+        "date": "22 March 2016",
+        "id": 380
+    },
+    {
+        "speech": "Address to the People of Cuba",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacubapeoplespeech.htm",
+        "date": "23 March 2016",
+        "id": 381
+    },
+    {
+        "speech": "Young Leaders Town Hall in Argentina",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYLAIArgentina.htm",
+        "date": "26 March 2016",
+        "id": 382
+    },
+    {
+        "speech": "Discussion with Davis Simon on The Wire",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadavidsimonthewire.htm",
+        "date": "01 April 2016",
+        "id": 383
+    },
+    {
+        "speech": "Nuclear Security Summit Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanuclearsummitpresser.htm",
+        "date": "07 April 2016",
+        "id": 384
+    },
+    {
+        "speech": "Conversation at the University. of Chicago Law School",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamausscconversation.htm",
+        "date": "21 April 2016",
+        "id": 385
+    },
+    {
+        "speech": "Press Conference in Saudi Arabia",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamasaudiarabiapresser.htm",
+        "date": "23 April 2016",
+        "id": 386
+    },
+    {
+        "speech": "Young Leaders Town Hall in the United Kingdom",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalondontownhall.htm",
+        "date": "25 April 2016",
+        "id": 387
+    },
+    {
+        "speech": "Address in Hannover to the Peoples of Europe",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaeuropehanover.htm",
+        "date": "30 April 2016",
+        "id": 388
+    },
+    {
+        "speech": "White House Correspondents Dinner Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamawhitehousecorrespondentsdinner2016.htm",
+        "date": "04 May 2016",
+        "id": 389
+    },
+    {
+        "speech": "Flint, Michigan Community Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaflintmichigancommunity.htm",
+        "date": "07 May 2016",
+        "id": 390
+    },
+    {
+        "speech": "Howard University Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahowarduniversitycommencement.htm",
+        "date": "14 May 2016",
+        "id": 391
+    },
+    {
+        "speech": "Weekly Address on Opioid Addiction with Macklemore",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/weeklyaddresses/barackobamaweeklyaddictionmacklemore.htm",
+        "date": "24 May 2016",
+        "id": 392
+    },
+    {
+        "speech": "Address to the People of Vietnam",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanationalconventioncentervietnam.htm",
+        "date": "24 May 2016",
+        "id": 393
+    },
+    {
+        "speech": "Address on Entrepreneurship at Dreamplex in Vietnam",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamavietnambusinessdevelopment.htm",
+        "date": "24 May 2016",
+        "id": 394
+    },
+    {
+        "speech": "Young Leaders Town Hall in Vietnam",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYSEALIVietnam.htm",
+        "date": "25 May 2016",
+        "id": 395
+    },
+    {
+        "speech": "Press Conference with Prime Minister Shinzo Abe",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamashinzoabepresser.htm",
+        "date": "26 May 2016",
+        "id": 396
+    },
+    {
+        "speech": "Post G7 Conference Presser",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajapanpostG7presser.htm",
+        "date": "27 May 2016",
+        "id": 397
+    },
+    {
+        "speech": "Address at the Hiroshima Peace Memorial",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahiroshimaspeech.htm",
+        "date": "2 June 2016",
+        "id": 398
+    },
+    {
+        "speech": "U.S. Air Force Academy Commencement Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaairforceacademycommencement.htm",
+        "date": "9 June 2016",
+        "id": 399
+    },
+    {
+        "speech": "Presidential Endorsement of Hillary Clinton",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamahillaryclintonpresidentialendorsement.htm",
+        "date": "12 June 2016",
+        "id": 400
+    },
+    {
+        "speech": "Statement on the Shootings in Orlando, Florida",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaorlandoshootings.htm",
+        "date": "14 June 2016",
+        "id": 401
+    },
+    {
+        "speech": "Counter-ISIL Meeting Update Briefing",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaISILcounter.htm",
+        "date": "14 June 2016",
+        "id": 402
+    },
+    {
+        "speech": "United State of Women White House Summit Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitedstateofwomensummit.htm",
+        "date": "16 June 2016",
+        "id": 403
+    },
+    {
+        "speech": "Address to the Community of Orlando, Florida",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaorlandocommunitystmt.htm",
+        "date": "23 June 2016",
+        "id": 404
+    },
+    {
+        "speech": "Remarks on USSC Ruling in U.S. vs. Texas",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamausvstexasimmigration.htm",
+        "date": "09 July 2016",
+        "id": 405
+    },
+    {
+        "speech": "Press Conference Following 2016 NATO Summit",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapostnatopresser2016.htm",
+        "date": "12 July 2016",
+        "id": 406
+    },
+    {
+        "speech": "Dallas Police Memorial Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadallaspolicememorial.htm",
+        "date": "27 July 2016",
+        "id": 407
+    },
+    {
+        "speech": "Democratic National Convention Address",
+        "link": "http://www.americanrhetoric.com/speeches/convention2016/barackobamadnc2016.htm",
+        "date": "04 August 2016",
+        "id": 408
+    },
+    {
+        "speech": "Post Security Council Meeting Pentagon Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaisilpressconference.htm",
+        "date": "23 August 2016",
+        "id": 409
+    },
+    {
+        "speech": "Baton Rouge Flooding Press Statement",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamabatonrougeflooding.htm",
+        "date": "05 September 2016",
+        "id": 410
+    },
+    {
+        "speech": "Press Conference Following G20 Summit",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamag20chinapresser.htm",
+        "date": "06 September 2016",
+        "id": 411
+    },
+    {
+        "speech": "Address to the People of Laos",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamalaospeople.htm",
+        "date": "06 September 2016",
+        "id": 412
+    },
+    {
+        "speech": "Post ASEAN Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapostASEANpresser.htm",
+        "date": "11 September 2016",
+        "id": 413
+    },
+    {
+        "speech": "9/11 Memorial Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama91115years.htm",
+        "date": "19 September 2016",
+        "id": 414
+    },
+    {
+        "speech": "Statement on the Explosions in New York and New Jersey",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamanewyorkandnewjerseyexplosions.htm",
+        "date": "20 September 2016",
+        "id": 415
+    },
+    {
+        "speech": "United Nations 71st Session General Assembly Speech",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaunitednations71.htm",
+        "date": "24 September 2016",
+        "id": 416
+    },
+    {
+        "speech": "National African-American History Museum Dedication Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaafricanamericanhistorymuseum.htm",
+        "date": "30 September 2016",
+        "id": 417
+    },
+    {
+        "speech": "Shimon Peres Memorial Service Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamashimonperesmemorial.htm",
+        "date": "09 November 2016",
+        "id": 418
+    },
+    {
+        "speech": "Remarks on the U.S. Presidential Election Outcome",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobama2016presidentialelectionoutcome.htm",
+        "date": "10 November 2016",
+        "id": 419
+    },
+    {
+        "speech": "Remarks on First Meeting with President-Elect Donald Trump",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamadonaldtrumpmeeting.htm",
+        "date": "14 November 2016",
+        "id": 420
+    },
+    {
+        "speech": "Post Presidential Election Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapostelectionpresser.htm",
+        "date": "16 November 2016",
+        "id": 421
+    },
+    {
+        "speech": "Address to the People of Greece",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamagreecepeople.htm",
+        "date": "17 November 2016",
+        "id": 422
+    },
+    {
+        "speech": "Joint Presser with Chancellor Angela Merkel",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaangelamerkelpresser2016.htm",
+        "date": "20 November 2016",
+        "id": 423
+    },
+    {
+        "speech": "Young Leaders of the Americas Initiative Address and Q&A",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaYLAI2016.htm",
+        "date": "20 November 2016",
+        "id": 424
+    },
+    {
+        "speech": "Press Conference in Peru",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaperupressconference.htm",
+        "date": "04 December 2016",
+        "id": 425
+    },
+    {
+        "speech": "Kennedy Center Honors Reception Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamakennedycenter2016.htm",
+        "date": "06 December 2016",
+        "id": 426
+    },
+    {
+        "speech": "On the Administration's Approach to Counterterrorism",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamacounterterrorismapproach2016.htm",
+        "date": "16 December 2016",
+        "id": 427
+    },
+    {
+        "speech": "Final Presidential Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinalpresidentialpressconference.htm",
+        "date": "27 December 2016",
+        "id": 428
+    },
+    {
+        "speech": "Address at Pearl Harbor",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamapearlhbarbor.htm",
+        "date": "04 December 2016",
+        "id": 429
+    },
+    {
+        "speech": "Farewell Address to the U.S. Armed Forces",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafarwellarmedforces.htm",
+        "date": "06 January 2017",
+        "id": 430
+    },
+    {
+        "speech": "VOX Live Interview at the Blair House",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamaVOXinterview.htm",
+        "date": "10 January 2017",
+        "id": 431
+    },
+    {
+        "speech": "Presidential Farewell Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafarewelladdress.htm",
+        "date": "12 January 2017",
+        "id": 432
+    },
+    {
+        "speech": "Joe Biden Medal of Freedom Presentation Address",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamajoebidenmedaloffreedom.htm",
+        "date": "16 January 2017",
+        "id": 433
+    },
+    {
+        "speech": "MLB World Series Champion Chicago Cubs White House Visit",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamachicagocubsMLBchamps.htm",
+        "date": "18 January 2017",
+        "id": 434
+    },
+    {
+        "speech": "Final Presidential Press Conference",
+        "link": "http://www.americanrhetoric.com/speeches/barackobama/barackobamafinalpressconference.htm",
+        "date": "20 January 2017",
+        "id": 435
+    }
+]
