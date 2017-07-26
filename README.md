@@ -12,6 +12,19 @@ Play with the model:
 
     python -i load_obama_vec.py
 
+    >>> obama_vec.most_similar(positive=["president", "woman"], negative=["man"] )
+    [('trump', 0.708624541759491),
+     ('hillary', 0.703040361404419),
+     ('presidentelect', 0.6651997566223145),
+     ('barack', 0.6554529666900635),
+     ('nominee', 0.6548861861228943),
+     ('snowden', 0.6519112586975098),
+     ('governor', 0.649947464466095),
+     ('putins', 0.6497337818145752),
+     ('senator', 0.6418864727020264),
+     ('putin', 0.6408566832542419)]
+
+
 
 ## Build your own
 
