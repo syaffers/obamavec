@@ -2,7 +2,7 @@
 
 ## Quick start
 
-Download the pre-trained `gensim` model [here](https://s3.amazonaws.com/syaffers-stuff/obama-vec/obama_vec.bin).
+Download the pre-trained `gensim` model [here](https://s3.amazonaws.com/syaffers-stuff/obama-vec/obama_vec.bin) (3.9MB).
 
 Install `gensim` (if you haven't already):
 
@@ -28,8 +28,7 @@ Play with the model:
 
 ## Build your own
 
-The raw data can be found [here](https://s3.amazonaws.com/syaffers-stuff/obama-vec/raw_speeches.tar.gz).
-Alternatively, you could scrape the data yourself:
+The raw data can be found [here](https://s3.amazonaws.com/syaffers-stuff/obama-vec/raw_speeches.tar.gz) (3.1MB). Alternatively, you could scrape the data yourself:
 
     make scrape
 
