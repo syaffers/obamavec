@@ -18,6 +18,6 @@ clean:
 scrape:
 	node scrape_speeches.js >> scrape.log
 
-corpus:
+vector:
 	sh clean_raw_files.sh
-	cat processed/*.txt > corpus.txt
+	python make_obama_vec.py

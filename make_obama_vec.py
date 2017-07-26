@@ -1,11 +1,12 @@
+#!/usr/bin/env python
+
 import re
 import glob
-import nltk
 import logging
-from gensim.models import KeyedVectors
-from gensim.models import Word2Vec, word2vec, phrases
+import nltk
 from nltk.stem import LancasterStemmer
 from nltk.corpus import stopwords
+from gensim.models import Word2Vec, word2vec
 
 
 def remove_specialchars(text):
@@ -44,7 +45,6 @@ stemmer = LancasterStemmer()
 sentences = []
 sw = stopwords.words("english")
 tokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
-dry_run = True
 
 num_features = 100
 min_word_count = 30
@@ -52,23 +52,19 @@ num_workers = 4
 context = 4
 downsampling = 1e-3
 
-if not dry_run:
-    for filename in glob.glob("processed/*"):
-        with open(filename, encoding='utf-8') as f:
-            data = f.read().splitlines()[0]
-            data = remove_specialchars(data).strip()
-            data = remove_xa0(data).strip()
-            # removes multiple whitespaces
-            data = " ".join(data.split())
+for filename in glob.glob("processed/*"):
+    with open(filename, encoding='utf-8') as f:
+        data = f.read().splitlines()[0]
+        data = remove_specialchars(data).strip()
+        data = remove_xa0(data).strip()
+        # removes multiple whitespaces
+        data = " ".join(data.split())
 
-            sentences += speech_to_sentences(data, tokenizer)
+        sentences += speech_to_sentences(data, tokenizer)
 
-        obama_vec = word2vec.Word2Vec(
-            sentences, workers=num_workers, size=num_features,
-            window=context, sample=downsampling)
+obama_vec = word2vec.Word2Vec(
+    sentences, workers=num_workers, size=num_features,
+    window=context, sample=downsampling)
 
-        acc = obama_vec.accuracy("/home/syafiq/data/questions-words.txt")
-        obama_vec.wv.save_word2vec_format("obama_vec.bin", binary=True)
-
-else:
-    obama_vec = KeyedVectors.load_word2vec_format("obama_vec.bin", binary=True)
+acc = obama_vec.accuracy("/home/syafiq/data/questions-words.txt")
+obama_vec.wv.save_word2vec_format("obama_vec.bin", binary=True)
