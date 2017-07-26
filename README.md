@@ -32,7 +32,7 @@ The raw data can be found [here](https://s3.amazonaws.com/syaffers-stuff/obama-v
 
     make scrape
 
-Then, you can edit the `make_obama_vec.py` file to your liking. To compile your model simply:
+Then, you can edit the `make_obama_vec.py` file to your liking. You will need `nltk` and `gensim` to be installed for the next step. To compile your model simply:
 
     make vector
 

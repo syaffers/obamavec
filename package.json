@@ -9,8 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scrape": "mkdir raw && node scrape_speech"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "obama",
@@ -19,5 +18,5 @@
     "mining"
   ],
   "author": "syaffers",
-  "license": "MIT"
+  "license": "BSD-3"
 }
