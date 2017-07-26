@@ -51,21 +51,21 @@ The script removes the "President Obama:" and "Question:" parts leaving just the
 
 This simple word embedding exercise came up while I sat in a long speech and wondered if I could mine leaders speeches and do some analysis. Nothing politically-oriented either, just... fun.
 
-So it turns out that [this guy](http://www.americanrhetoric.com/) has an American presidents speech bank which is perfect. Upon more inspection, there is a section specifically for all the speeches by Barack Obama.
+So it turns out that [this guy](http://www.americanrhetoric.com/) has an American presidents speech bank which is perfect. Upon more inspection, there is a section specifically for all the speeches by Barack Obama. In total, there were 435 speeches of varying length and content which seemed to be good for a hobby scale project.
 
 The mining was slightly cumbersome: the site didn't use good HTML practices which made it difficult but I did my best by eyballing certain parts of the documents which act as markers where I can snip off without too much unnecessary residue.
 
-Cleaning was another huge part. Lots of different "Speaker tags" for the same people and it became quite laborious. No stemming was done, nor of conversion of numbers into words (17 to seventeen).
+Cleaning was another huge part. Lots of different "Speaker tags" for the same people and it became quite laborious. No stemming was done, nor of conversion of numbers into words (17 to seventeen). After all this and splitting the words, it ended up being around 4,000,000 words in total.
 
 ### Model
 
-The model is trained using `gensim` with the following parameters:
+The uploaded model is trained using `gensim` with the following parameters:
 
 * 100 features
 * At least 30 words appearing in the corpus
 * Context window length: 4
 
-This model is by no means "good". In fact, it's far from it :joy:. Here's a table of results on various parameters:
+There are 10005 words in the vocab, mostly tied to political themes (as you might imagine). Surprisingly, it does pretty well with the family predictions. In the end, this model is by no means "good". In fact, it's far from it :joy:. Here's a table of results on various parameters:
 
 | Features | Window | `questions-words.txt` accuracy |
 | -------- |:------:|:------------------------------:|
